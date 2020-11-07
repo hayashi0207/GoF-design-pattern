@@ -1,2 +1,2 @@
-module pc {
+module factoryMethod {
 }
